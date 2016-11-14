@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<glz:Config xmlns:glz="http://www.glizy.org/dtd/1.0/">
+    <glz:Param name="valore1" value="prova1" />
+    <glz:Param name="valore2" value="prova2" />
+</glz:Config>
